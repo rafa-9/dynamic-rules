@@ -1,4 +1,4 @@
-name: Run Node.js Script
+name: Update rules.json
 
 on:
   push:
